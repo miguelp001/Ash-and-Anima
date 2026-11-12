@@ -1,4 +1,4 @@
-# Infinite Skies
+# Ash and Anima
 
 A Unity project built with the Universal Render Pipeline (URP).
 
@@ -14,8 +14,8 @@ A Unity project built with the Universal Render Pipeline (URP).
 
 1. **Clone the repository:**
    ```bash
-   git clone git@github.com:miguelp001/Infinite-Skies.git
-   cd Infinite-Skies
+   git clone git@github.com:miguelp001/Ash-and-Anima.git
+   cd Ash-and-Anima
    git lfs pull
    ```
 
